@@ -1,7 +1,6 @@
 name: SimpleStorage
-    version: 0.1.0
-    summary: Azure Web App Environment
-    description: Deploys a storage account
-    runner: ARM
-    templatePath: azuredeploy.json
-
+version: 0.1.0
+summary: Azure Web App Environment
+description: Deploys a storage account
+runner: ARM
+templatePath: azuredeploy.json
